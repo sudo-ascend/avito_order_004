@@ -4,16 +4,16 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
   <url>
-    <loc>https://sudo-ascend.github.io/avito_order_004/</loc>
-    <lastmod>2026-07-03</lastmod>
+    <loc>https://eco-spil.ru/</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://sudo-ascend.github.io/avito_order_004/assets/img/hero-arborist.webp</image:loc>
+      <image:loc>https://eco-spil.ru/assets/img/hero-arborist.webp</image:loc>
       <image:title>Спил деревьев в Москве и Московской области</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://sudo-ascend.github.io/avito_order_004/assets/img/og-cover.jpg</image:loc>
+      <image:loc>https://eco-spil.ru/assets/img/og-cover.jpg</image:loc>
       <image:title>ЭКО Спил</image:title>
     </image:image>
   </url>

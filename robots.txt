@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sudo-ascend.github.io/avito_order_004/sitemap.xml
+Sitemap: https://eco-spil.ru/sitemap.xml
