@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudo-ascend.github.io/avito_order_004/sitemap.xml

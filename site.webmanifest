@@ -1,0 +1,19 @@
+{
+  "name": "ЭКО Спил",
+  "short_name": "ЭКО Спил",
+  "description": "Спил и обрезка деревьев в Москве и Московской области.",
+  "lang": "ru-RU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#101814",
+  "icons": [
+    {
+      "src": "assets/img/logo-eco-spil.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

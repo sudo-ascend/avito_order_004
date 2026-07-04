@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://sudo-ascend.github.io/avito_order_004/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sudo-ascend.github.io/avito_order_004/assets/img/hero-arborist.webp</image:loc>
+      <image:title>Спил деревьев в Москве и Московской области</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sudo-ascend.github.io/avito_order_004/assets/img/og-cover.jpg</image:loc>
+      <image:title>ЭКО Спил</image:title>
+    </image:image>
+  </url>
+</urlset>
