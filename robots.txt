@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eco-spil.ru/sitemap.xml
+Sitemap: https://ecospil.ru/sitemap.xml
